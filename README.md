@@ -17,11 +17,5 @@ Hello, I'm `Antonio Climent`, I'm `18 yeras old`, Currently live in `Teruel,Espa
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/ToniClimentPerez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ToniClimentPerez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ToniClimentPerez&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
+![ToniClimentPerez github stats](https://github-readme-stats.vercel.app/api?username=ToniClimentPerez&show_icons=true&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ToniClimentPerez&theme=github_dark" alt="mystreak"/>
